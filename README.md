@@ -8,10 +8,19 @@
 ---
 
 ## 🏛️ V8.3.2 Production Gallery
+*Direct visual proof of the Quantum-Fiscal Pipeline execution.*
+
 | **I. Quantum VQE (Phase)** | **II. HPC Risk Audit** | **III. Bloch Target Analysis** |
 | :---: | :---: | :---: |
-| ![Results](audit_results.png) | ![Variance](audit_variance.png) | ![Bloch](quantum_bloch_targets.png) |
+| ![Results](audit_results.png) | ![Variance](audit_summary.png) | ![Bloch](quantum_bloch_targets.png) |
 | *Target: IBM $280.95* | *JPM $256.56B Variance* | *S/T-Gate Phase Decay* |
+
+---
+
+## 🛠️ System Intelligence
+* **Quantum Layer:** Python/Qiskit Monte Carlo for tech sector alpha targets.
+* **HPC Layer:** C++20 Vectorized engine identifying liquidity gaps.
+* **Data Anchor:** Live B-PIPE sync (Brent $104.22 | Gold $5,018.44).
 
 ---
 
