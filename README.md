@@ -32,3 +32,13 @@ git clone [https://github.com/LauroBeck/alpha-fox-v8-unified.git](https://github
 cd alpha-fox-v8-unified
 ./run_v8_3_full_stack.sh
 © 2026 LauroBeckDBA | Senior Enterprise Architect
+
+---
+
+## 📊 V8.3 Audit Performance Gallery
+| Quantum VQE Projections | HPC Multi-Bank Audit | Production Master Sync |
+| :---: | :---: | :---: |
+| <img src="Screenshot From 2026-03-16 20-00-38.png" width="300" /> | <img src="Screenshot From 2026-03-16 20-06-05.png" width="300" /> | <img src="Screenshot From 2026-03-16 20-12-45.png" width="300" /> |
+| *2026-2027 Tech Alpha Targets* | *Critical JPM Variance Alert* | *Official v8.3.0-stable Release* |
+
+---
