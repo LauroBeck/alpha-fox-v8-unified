@@ -1,6 +1,10 @@
 # 🦊 Alpha-Fox V8.3: Sovereign Production Master
+![Release](https://img.shields.io/badge/Release-v8.3.0--stable-blue?style=for-the-badge&logo=github)
+![Build](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=github-actions)
+![Engine](https://img.shields.io/badge/Stack-C%2B%2B20%20%7C%20Python%203.13%20%7C%20Qiskit-orange?style=for-the-badge)
+![Audit](https://img.shields.io/badge/Audit-Verified-green?style=for-the-badge&logo=checkmarx)
 
-**Senior Architect:** Lauro Beck | **Release:** `v8.3.0-stable` | **Market Date:** March 16, 2026
+**Senior Architect:** Lauro Beck | **Market Date:** March 16, 2026 | **Environment:** `PROD-ACTIVE`
 
 ---
 
