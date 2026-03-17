@@ -7,10 +7,10 @@
 ## 🏛️ V8.3 Audit Production Gallery
 *Direct visual proof of the Quantum-Fiscal Pipeline execution.*
 
-| **I. Quantum VQE Projections** | **II. HPC Risk Audit Engine** | **III. Production Stack** |
-| :---: | :---: | :---: |
-| ![Quantum](audit_quantum.png) | ![Variance](audit_variance.png) | ![Repo](audit_repo.png) |
-| *Target: IBM $280.95* | *ALERT: JPM $256.56B Variance* | *58% Python | 29% C++* |
+| **I. Full Stack Results** | **II. Project Summary** |
+| :---: | :---: |
+| ![Results](audit_results.png) | ![Summary](audit_summary.png) |
+| *VQE Targets & HPC Alerts* | *Architecture & Language Pulse* |
 
 ---
 
